@@ -1,0 +1,16 @@
+{
+  "name": "loginapp",
+  "homepage": "https://github.com/mail4sheik/loginform",
+  "authors": [
+    "Sheik Mohammed Muzammil <mail4sheik@gmail.com>"
+  ],
+  "description": "App to learn angular service",
+  "main": "index.html",
+  "keywords": [
+    "login",
+    "service",
+    "angular"
+  ],
+  "license": "MIT",
+  "private": true
+}
